@@ -794,23 +794,23 @@ export const jobsData = [
             "image": company_icon,
         },
         description: `
-        <p>Join our creative team as a Graphic Designer, where you will be responsible for creating visually appealing graphics and layouts that enhance our brand identity. You will collaborate with marketing and product teams to develop creative solutions for various projects.</p>
-        <h2><strong>Key Responsibilities</strong></h2>
-        <ol>
-            <li>Design graphics for digital and print media, including social media, websites, and marketing materials.</li>
-            <li>Collaborate with cross-functional teams to understand project requirements and objectives.</li>
-            <li>Stay updated on design trends and tools to continually enhance skills and creativity.</li>
-            <li>Prepare and present design concepts to stakeholders for feedback and approval.</li>
-            <li>Ensure all designs align with brand guidelines and project specifications.</li>
-        </ol>
-        <h2><strong>Skills Required</strong></h2>
-        <ol>
-            <li>Proficiency in design software such as Adobe Creative Suite (Photoshop, Illustrator, InDesign).</li>
-            <li>Strong understanding of design principles and typography.</li>
-            <li>Ability to work on multiple projects simultaneously and meet deadlines.</li>
-            <li>Excellent communication and collaboration skills.</li>
-            <li>A portfolio showcasing relevant design work is required.</li>
-        </ol>`,
+            <p>Join our creative team as a Graphic Designer, where you will be responsible for creating visually appealing graphics and layouts that enhance our brand identity. You will collaborate with marketing and product teams to develop creative solutions for various projects.</p>
+            <h2><strong>Key Responsibilities</strong></h2>
+            <ol>
+                <li>Design graphics for digital and print media, including social media, websites, and marketing materials.</li>
+                <li>Collaborate with cross-functional teams to understand project requirements and objectives.</li>
+                <li>Stay updated on design trends and tools to continually enhance skills and creativity.</li>
+                <li>Prepare and present design concepts to stakeholders for feedback and approval.</li>
+                <li>Ensure all designs align with brand guidelines and project specifications.</li>
+            </ol>
+            <h2><strong>Skills Required</strong></h2>
+            <ol>
+                <li>Proficiency in design software such as Adobe Creative Suite (Photoshop, Illustrator, InDesign).</li>
+                <li>Strong understanding of design principles and typography.</li>
+                <li>Ability to work on multiple projects simultaneously and meet deadlines.</li>
+                <li>Excellent communication and collaboration skills.</li>
+                <li>A portfolio showcasing relevant design work is required.</li>
+            </ol>`,
         salary: 91000,
         date: 1729681667114,
         category: "Design",
@@ -893,23 +893,23 @@ export const jobsData = [
             "image": company_icon,
         },
         description: `
-        <p>Join our technology team as a Cloud Engineer, where you will be responsible for designing and managing our cloud infrastructure. You will collaborate with development and operations teams to ensure the efficient deployment and scaling of applications.</p>
-        <h2><strong>Key Responsibilities</strong></h2>
-        <ol>
-            <li>Design and implement cloud solutions using AWS, Azure, or Google Cloud Platform.</li>
-            <li>Monitor and optimize cloud resources for performance and cost efficiency.</li>
-            <li>Work with DevOps teams to automate deployment processes.</li>
-            <li>Ensure cloud security and compliance with industry standards.</li>
-            <li>Provide technical support and troubleshooting for cloud-based applications.</li>
-        </ol>
-        <h2><strong>Skills Required</strong></h2>
-        <ol>
-            <li>Experience with cloud platforms and services.</li>
-            <li>Proficiency in scripting languages such as Python or Bash.</li>
-            <li>Strong understanding of networking concepts and security.</li>
-            <li>Experience with container orchestration tools like Kubernetes.</li>
-            <li>Good problem-solving skills and attention to detail.</li>
-        </ol>`,
+            <p>Join our technology team as a Cloud Engineer, where you will be responsible for designing and managing our cloud infrastructure. You will collaborate with development and operations teams to ensure the efficient deployment and scaling of applications.</p>
+            <h2><strong>Key Responsibilities</strong></h2>
+            <ol>
+                <li>Design and implement cloud solutions using AWS, Azure, or Google Cloud Platform.</li>
+                <li>Monitor and optimize cloud resources for performance and cost efficiency.</li>
+                <li>Work with DevOps teams to automate deployment processes.</li>
+                <li>Ensure cloud security and compliance with industry standards.</li>
+                <li>Provide technical support and troubleshooting for cloud-based applications.</li>
+            </ol>
+            <h2><strong>Skills Required</strong></h2>
+            <ol>
+                <li>Experience with cloud platforms and services.</li>
+                <li>Proficiency in scripting languages such as Python or Bash.</li>
+                <li>Strong understanding of networking concepts and security.</li>
+                <li>Experience with container orchestration tools like Kubernetes.</li>
+                <li>Good problem-solving skills and attention to detail.</li>
+            </ol>`,
         salary: 102000,
         date: 1729681667114,
         category: "Programming",
