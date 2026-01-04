@@ -41,8 +41,7 @@ app.get("/debug-sentry", function mainHandler(req, res) {
   clerkwebhooks
 ); */
 app.post(
-  "/api/webhooks",
-  express.raw({ type: "application/json" }),
+  "/webhooks",
   clerkwebhooks
 );
 
@@ -50,7 +49,7 @@ app.use('/api/company',companyRoutes)
 app.use('/api/jobs',jobRoutes)
 app.use('/api/users',userRoutes)
 
-connectCloudinary();
+await connectCloudinary();
 //PORT
 const PORT = process.env.PORT || 5000
 
