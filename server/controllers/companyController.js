@@ -1,3 +1,4 @@
+
 import { compare, hash } from "bcrypt"
 import Company from "../models/company.js";
 import bcrypt from "bcrypt"
